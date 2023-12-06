@@ -13,18 +13,23 @@ This graph shows the [Dolphins](#dolphins) and [Packers](#packers) blowing away 
 
 ## Dolphins
 The Dolphins play at Hard Rock Stadium, located in Miami, Florida. Because of the location, Hard Rock Stadium hosts, on average, the hottest home games compared to the rest of the league. 
-![Dolphin's Temp Graphs](graphs\DolphinsSpec.jpg)
+![Dolphins Temp Graphs](graphs\DolphinsSpec.jpg)
 
 They take extra advantage of the climate by having the away team bench on the north of the stadium facing south. This makes the away bench bake in the sun while the home bench is comfortably in the shade. 
-![Dolphin's Stadium images](graphs/DolphinsAlt.jpg)
+![Dolphins Stadium images](graphs/DolphinsAlt.jpg)
 
 Another small thing, the Dolphins wear white at home where traditionally the home team wears their primary color. This reduces the amount of sunlight the players absorb.
 
 ## Packers
+The Packers play at Lambeau Field, located in Green Bay, Wisconsin. Lambeau Field is appropriately nicknamed "Frozen Tundra" because it is the exact opposite of Hard Rock Stadium. Lambeau Field hosts, on average, the coldest home games compared to the rest of the league. To add on to this, the average amount of snow in Green Bay is 562% league average.
+![Packers Temp Graphs](graphs/PackersSpec.jpg)
 
+This advantage kicks in harder during the playoffs which happen in January, leading to a **21-6** home playoff record.
 
 ## Browns
 
+
 ## Broncos
+
 
 ## Cardinals
