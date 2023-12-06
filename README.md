@@ -9,7 +9,7 @@ As you can see, HFA varies from year to but remains in approximately the 5% to 2
 
 To know what teams to look toward for large HFA, we need to break this down by team which is shown here: ![Team HFA Graph](graphs/TeamHFA.jpg)
 
-This graph shows the [Dolphins](#dolphins) and [Packers](#packers) blowing away the league average of 11.2% HFA with 29% and 25% respectively. We also see the [Cardinals](#cardinals) who are significantly below 0% HFA with **-8%** showing a home field **disadvantage**. Two other teams worth noting are the [Browns](#browns) and [Broncos](#broncos) also being higher than average having a 22% and 18% HFA respectively. 
+This graph shows the [Dolphins](#dolphins) and [Packers](#packers) blowing away the league average of 11.2% HFA with 29% and 25% respectively. We also see the [Cardinals](#cardinals) who are significantly below 0% with **-8%** HFA showing a home field **disadvantage**. Lets dive in and see what makes an HFA.
 
 ## Dolphins
 The Dolphins play at Hard Rock Stadium, located in Miami, Florida. Because of the location, Hard Rock Stadium hosts, on average, the hottest home games compared to the rest of the league. 
@@ -28,10 +28,41 @@ The Packers play at Lambeau Field, located in Green Bay, Wisconsin. Lambeau Fiel
 
 This advantage kicks in harder during the playoffs which happen in January, leading to a **21-6** home playoff record.
 
-## Browns
-
-
-## Broncos
-
-
 ## Cardinals
+
+## Where do you go
+After going through these teams, we can determine the 3 most important things to get a large HFA:
+
+### Climate
+The teams with the largest HFAs use climate to their advantage. We proved that domes and moderate climate can diminish HFA. The optimal city for a team would have an outdoor stadium that can be added on or used as is. If we have to build a new stadium, that is possibly more money coming out of our pockets or a possible push from the league office to build an indoor stadium. 
+
+### Fans
+As proved by the Cardinals, fans or a market of fans is important is the bare minimum for a decent HFA. The optimal city or region would have at least 150,000 people in market (The average NFL game has 68,000 fans). 
+
+### Distance
+In order to make sure that our team does not to get jetlagged or overtired from travel, the team would probably have to be in North America. However, the optimal region cannot be to close to another team in order to not poach fans. 
+
+## Conclusion
+Essentially, we need a large city, that has extreme weather, with an outdoor stadium, and close to the US.
+
+We can eliminate the continental US because the extremes of the climate are already taken up. That leaves us with Canada and Mexico. 
+
+Mexico City seems like a good location with high elevation similar to Denver, but elevation does not have the same effect as temperature. That is a good start, but there is a better answer. 
+
+Canada has some extreme weather and large cites. We can eliminate Toronto, Winnipeg, and Vancouver for how close they are to current NFL teams (Buffalo, Minneapolis, and Seattle). Looking through Ottawa and Montreal, neither has a good outdoor stadium so they can get crossed off. That leaves us with the two major cities of Alberta, Edmonton and Calgary.
+
+### Alberta
+
+![Alberta Landscape](graphs/Alberta.jpg)
+
+Alberta fits all of our criteria perfectly. There are approximately 1 million people living in Edmonton, as well as Calgary's 1.4 million people. The market for football is definitely there with the Edmonton and Calgary Canadian Football League (CFL) teams are 3rd and 4th in attendance.
+
+![Green Bay v.s. Edmonton Temps](graphs/GBvsED.jpg)
+
+Edmonton is home to Commonwealth Stadium, the largest stadium in Canada with a 56,302 capacity. This could be renovated to add a couple thousand more seats to bring it up to NFL standards.
+
+![Commonwealth Stadium](graphs/CommonStad.bmp)
+
+Finally, the closeness to the US is not an issue because both Edmonton and Calgary have NHL teams.
+
+Overall, the best place for a new or relocating NFL team is Edmonton marketed as Alberta!
