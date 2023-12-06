@@ -13,7 +13,7 @@ This graph shows the [Dolphins](#dolphins) and [Packers](#packers) blowing away 
 
 ## Dolphins
 The Dolphins play at Hard Rock Stadium, located in Miami, Florida. Because of the location, Hard Rock Stadium hosts, on average, the hottest home games compared to the rest of the league. 
-![Dolphins Temp Graphs](graphs\DolphinsSpec.jpg)
+![Dolphins Temp Graphs](graphs/DolphinsSpec.jpg)
 
 They take extra advantage of the climate by having the away team bench on the north of the stadium facing south. This makes the away bench bake in the sun while the home bench is comfortably in the shade. 
 
