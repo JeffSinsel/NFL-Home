@@ -37,7 +37,10 @@ After going through these teams, we can determine the 3 most important things to
 The teams with the largest HFAs use climate to their advantage. We proved that domes and moderate climate can diminish HFA. The optimal city for a team would have an outdoor stadium that can be added on or used as is. If we have to build a new stadium, that is possibly more money coming out of our pockets or a possible push from the league office to build an indoor stadium. 
 
 ### Fans
-As proved by the Cardinals, fans or a market of fans is important is the bare minimum for a decent HFA. The optimal city or region would have at least 150,000 people in market (The average NFL game has 68,000 fans). 
+As proved by the Cardinals, fans or a market of fans is important is the bare minimum for a decent HFA. Ignoring HFA for a second, fans also account for about 40% for revenue (Credit: [Forbes](https://www.forbes.com/sites/mikeozanian/2022/08/22/nfl-team-values-2022-dallas-cowboys-are-the-first-franchise-worth-8-billion/)), so having a large market is great for mutiple reasons. 
+![NFL Team's Revenue Breakdown](graphs\NFL-Revenue.webp)
+
+The optimal city or region would have at least 150,000 people in market (The average NFL game has 68,000 fans). 
 
 ### Distance
 In order to make sure that our team does not to get jetlagged or overtired from travel, the team would probably have to be in North America. However, the optimal region cannot be to close to another team in order to not poach fans. 
@@ -65,4 +68,4 @@ Edmonton is home to Commonwealth Stadium, the largest stadium in Canada with a 5
 
 Finally, the closeness to the US is not an issue because both Edmonton and Calgary have NHL teams.
 
-Overall, the best place for a new or relocating NFL team is Edmonton marketed as Alberta!
+Overall, the best place for a new or relocating NFL team is Edmonton marketed as the Alberta Owls!
