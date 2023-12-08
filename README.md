@@ -32,7 +32,7 @@ This advantage kicks in harder in colder months when the playoffs occur, leading
 
 The Cardinals play in State Farm Stadium, a domed stadium located in Glendale, Arizona. Because of the dome, the climate is as moderate as can be. Opposed to away teams playing in a climate they are not used to, they get to play in a comfortable dome. 
 
-![Alt text](graphs/q5wl8e3z.bmp)
+![State Farm Stadium Showing Dome](graphs/q5wl8e3z.bmp)
 
 Another issue with the Cardinals is their lack of fans. In a 2022 study by Samford University, the Cardinals ranked 29th/32 in fan base size. When away fans can come in and "takeover" a stadium with noise, a home game becomes an away game.
 
@@ -45,7 +45,8 @@ The teams with the largest HFAs use climate to their advantage. We proved that d
 ### Fans
 As proved by the Cardinals, fans or a market of fans is important is the bare minimum for a decent HFA. Ignoring HFA for a second, fans also account for about 40% for revenue, so having a large market is great for mutiple reasons. 
 
-![NFL Team's Revenue Breakdown](graphs\NFL-Revenue.webp)
+![NFL Team's Revenue Breakdown](graphs/NFL-Revenue.webp)
+
 (Credit [Forbes](https://www.forbes.com/sites/mikeozanian/2022/08/22/nfl-team-values-2022-dallas-cowboys-are-the-first-franchise-worth-8-billion/))
 
 The optimal city or region would have at least 150,000 people in market (The average NFL game has 68,000 fans). 
@@ -65,6 +66,7 @@ Canada has some extreme weather and large cites. We can eliminate Toronto, Winni
 ### Alberta
 
 ![Alberta Landscape](graphs/Alberta.jpg)
+
 (Photo by <a href="https://unsplash.com/@andyjh07?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andy Holmes</a> on <a href="https://unsplash.com/photos/body-of-water-near-tree-XZ8AiqUcbD8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
 
 #### Climate
@@ -72,6 +74,7 @@ Canada has some extreme weather and large cites. We can eliminate Toronto, Winni
 Alberta also has an extreme temperature similar to Green Bay, although Alberta does not get as much snow. The weather not much more extreme than Green Bay is actually advantage because there are pushes from the league office to have more indoor stadiums in colder climates. Below is a temperature graph comparing Green Bay (Purple) and Edmonton (Green) 
 
 ![Green Bay v.s. Edmonton Temps](graphs/GBvsED.jpg)
+
 (Graph from [WeatherSpark](https://weatherspark.com/))
 
 #### Fans
@@ -83,6 +86,7 @@ There are approximately 1 million people living in Edmonton, as well as Calgary'
 Edmonton is home to Commonwealth Stadium, the largest stadium in Canada with a 56,302 capacity. This could be renovated to add a couple thousand more seats to bring it up to NFL standards.
 
 ![Commonwealth Stadium](graphs/CommonStad.bmp)
+
 (Photo by Nathan Power on [Wikipedia](https://en.wikipedia.org/wiki/Commonwealth_Stadium#/media/File:CommonwealthStadium2023.jpg))
 
 #### Distance 
@@ -98,4 +102,5 @@ The final piece of the equation is a great mascot. Alberta has plenty of options
 **Welcome to the NFL the Alberta Owls, who play at Commonwealth Stadium!** 
 
 ![Concept of Owl Logo](graphs/Owl.jpg)
+
 (Concept from [Pinterest](https://www.pinterest.com/pin/434738170279584389/))
